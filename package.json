@@ -1,0 +1,29 @@
+{
+  "author": "GTP mobile",
+  "dependencies": {
+    "react-native-electrode-bridge": "1.5.19"
+  },
+  "description": "ERN Generated API for ern-movie-list-guide-api",
+  "devDependencies": {
+    "flow-bin": "^0.47.0"
+  },
+  "ern": {
+    "message": {
+      "moduleName": "ern-movie-list-guide-api",
+      "namespace": "com.ern-movie-list-guide-api.ern",
+      "apiSchemaPath": "schema.json",
+      "artifactId": "react-native-ern-movie-list-guide-api-api"
+    },
+    "moduleType": "ern-api"
+  },
+  "keywords": [
+    "ern-api"
+  ],
+  "main": "javascript/src/index.js",
+  "name": "ern-movie-list-guide-api",
+  "scripts": {
+    "flow": "flow"
+  },
+  "repository": "https://github.com/ERN-demo-api/ern-movie-list-guide-api",
+  "version": "1.0.5"
+}
